@@ -1,1 +1,1 @@
-# project-updates
+# The Project Studio
